@@ -42,4 +42,24 @@ experience:
     date_start: '2019-01-01'
     date_end: 'Present'
     description: Trainer for a Penetration testing workshop and a Mobile reverse engineering workshop.
+    
+  - title: Internship
+    company: DITRIOT Consulting
+    company_url: 'https://www.ditriot.com/'
+    location: Tunisia
+    date_start: '2020-07-01'
+    date_end: '2020-10-01'
+    description: assigned in several missions that included several exploitation scenarios in multiple webApp/mobile applications
+    
+  - title: Internship
+    company: NextStep
+    company_url: 'https://www.nextstep-it.com/'
+    location: Tunisia
+    date_start: '2019-07-01'
+    date_end: '2019-11-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Deploying of infrastructure and technologies for a SOC as a Service
+        * assigned to an Active Directory penetration testing.
 ---
