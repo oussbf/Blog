@@ -26,7 +26,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "S"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -89,6 +89,25 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "oussbenfredj@gmail.com"
+phone = "+21624772681"
+
+# Address
+# For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
+address = { city = "Ariana", country = "Tunisia", country_code = "TN"}
+
+# Geographic coordinates
+# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+
+
+# Directions for visitors to locate you.
+
+
+# Office hours
+# A list of your office hours. To remove, set to an empty list `[]`.
+
+
+# Enter an optional link for booking appointments (e.g. calendly.com).
+
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -96,6 +115,9 @@ contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/oussamabenfred3"},
   {icon = "linkedin", icon_pack = "fab", name = "Contact Me", link = "https://www.linkedin.com/in/oussama-ben-fredj/"},
   {icon = "facebook", icon_pack = "fab", name = "Text Me", link = "https://www.facebook.com/obenfredj1"}
+  
+  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
 ############################
