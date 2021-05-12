@@ -37,12 +37,17 @@ experience:
         
   - title: Workshop Trainer
     company: Securinets
-    company_url: ''
+    company_url: 'https://securinets.com/'
     location: Tunisia
-    date_start: '2019-01-01'
-    date_end: 'Present'
-    description: Trainer for a Penetration testing workshop and a Mobile reverse engineering workshop.
-    
+    date_start: '2019-09-09'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Participating in CTFs
+        * Mobile reverse engineering workshop trainer
+        * Penetration testing workshop trainer
+
   - title: Internship
     company: DITRIOT Consulting
     company_url: 'https://www.ditriot.com/'
@@ -50,10 +55,10 @@ experience:
     date_start: '2020-07-01'
     date_end: '2020-10-01'
     description: assigned in several missions that included several exploitation scenarios in multiple webApp/mobile applications
-    
+
   - title: Internship
     company: NextStep
-    company_url: 'https://www.nextstep-it.com/'
+    company_url: 'https://www.nextstep-it.com/  '
     location: Tunisia
     date_start: '2019-07-01'
     date_end: '2019-11-01'
@@ -61,5 +66,7 @@ experience:
         Responsibilities include:
         
         * Deploying of infrastructure and technologies for a SOC as a Service
-        * assigned to an Active Directory penetration testing.
+        * assigned to an Active Directory penetration testing
+        
+        
 ---
